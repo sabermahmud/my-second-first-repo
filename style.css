@@ -1,0 +1,12 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.navbar{
+ display: flex;
+ justify-content: space-around;
+ background-color: rgb(229, 245, 206);
+ padding:20px 10px;
+}
